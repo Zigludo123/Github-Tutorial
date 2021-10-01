@@ -1,3 +1,3 @@
 public static void main (String[] args){
-	System.out.println("something new!");
+	System.out.println("A different text!");
 }
